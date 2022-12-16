@@ -1,0 +1,4 @@
+data\Conexion.class
+controller\ServletControlador.class
+model\Tarea.class
+data\TareaDao.class
